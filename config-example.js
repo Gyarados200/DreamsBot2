@@ -44,9 +44,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = '';
+exports.nick = 'DreamsBot';
 
-exports.pass = '';
+exports.pass = 'elbaryados200';
 
 exports.autoReloginDelay = 60 * 1000;
 
@@ -134,7 +134,7 @@ exports.pmhelp = "Hi #USER! I am a robot, please PM another staff member if you 
 * Language configuration
 */
 
-exports.language = 'english';
+exports.language = 'spanish';
 
 /*
 * Configuration for console messages
@@ -382,7 +382,7 @@ exports.autoInvite = [
 */
 
 exports.github = {
-	room: 'development',
+	room: 'development','lobby',
 	secret: "",
 	port: 3420
 };
