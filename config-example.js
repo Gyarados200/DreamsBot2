@@ -382,7 +382,7 @@ exports.autoInvite = [
 */
 
 exports.github = {
-	room: 'development','lobby',
+	room: 'development',
 	secret: "",
 	port: 3420
 };
